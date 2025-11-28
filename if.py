@@ -1,5 +1,5 @@
 
 nota = 18
-if nota >= 16:
+if nota >= 17:
     print("aprobado")
 
